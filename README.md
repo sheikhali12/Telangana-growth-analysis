@@ -22,8 +22,3 @@ Dataset consists of 2 dimension tables and 3 fact tables.
 4. fact_transport : The table provides information about the individual vehicle sales data from the RTA(Regional Transport Authority) of the state of Telangana categorized by fuel type, vehicle class, seating capacity, and other general categories aggregated at the district and monthly level.
 5. fact_TS_iPASS : The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS).
 
-**[Video Presentation](https://youtu.be/M5WoBwT9gUc)**
-
-**[Presenation PDF](https://drive.google.com/file/d/1f_ft4XR_I0Byk1llmvO_sGEUDoZ8KgwN/view?usp=sharing)**
-
-**[Live Dashboard](https://www.novypro.com/project/telangana-growth-analysis-42)**
